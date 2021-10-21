@@ -13,6 +13,7 @@ public class SumOfDigits{
     int Sum = A + B + C;
   
     System.out.println("Sum of digits: " + Sum);
+    input.close();
 
 
 

@@ -35,6 +35,7 @@ public class DayOfWeek {
           System.out.println("Invalid day");
           break;
         }
+        input.close();
 
         
     }
