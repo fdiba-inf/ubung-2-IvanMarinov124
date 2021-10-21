@@ -20,5 +20,6 @@ A = pi*r*r;
 System.out.println("Circumference: "+ C);
 System.out.println("Area: " + A);
 input.close();
+
   }
 }

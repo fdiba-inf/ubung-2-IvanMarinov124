@@ -12,8 +12,10 @@ public class SumOfDigits{
     int C = (value/100)%10;
     int Sum = A + B + C;
   
-    System.out.println("Sum of digits: " + Sum);
+    System.out.println("Sum of digits: " + Sum); 
     input.close();
+
+
 
 
 
