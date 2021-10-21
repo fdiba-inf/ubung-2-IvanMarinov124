@@ -20,7 +20,7 @@ public class QuadraticEquation{
     {
       x1 = (-b + Math.sqrt(D))/2*a;
       x2 = (-b - Math.sqrt(D))/2*a;
-      System.out.println("Ausgabe: " + x1 + " " + x2);
+      System.out.println(x1 + ",  " + x2);
     }
     else
     {
@@ -45,10 +45,5 @@ public class QuadraticEquation{
     input.close();
     
   }
-    
-
-    
-
-
 
   }
