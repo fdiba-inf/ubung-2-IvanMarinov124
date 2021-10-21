@@ -32,7 +32,11 @@ public class DayOfWeek {
           System.out.println("Day of week: Saturday");
           break;
           case 7:
+
           System.out.println("Day of week: Sunday ");
+
+          System.out.println("Day of week:Sunday ");
+
           break;
           default:
           System.out.println("Day of week: Invalid day");
